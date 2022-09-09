@@ -1,0 +1,32 @@
+[
+    {   
+        "name": "Projekto pavadinimas",
+        "description": "Aprašymas: 1",
+        "image": "./assets/img/portfolio/fullsize/robotworkinprogress.png"
+    },
+    {
+        "name": "Projekto pavadinimas",
+        "description": "Aprašymas:  2",
+        "image": "./assets/img/portfolio/fullsize/robotworkinprogress.png"
+    },
+    {
+        "name": "Projekto pavadinimas",
+        "description": "Aprašymas:  3",
+        "image": "./assets/img/portfolio/fullsize/robotworkinprogress.png"
+    },
+    {
+        "name": "Projekto pavadinimas",
+        "description": "Aprašymas: 4",
+        "image": "./assets/img/portfolio/fullsize/robotworkinprogress.png"
+    },
+    {
+        "name": "Projekto pavadinimas",
+        "description": "Aprašymas: 5",
+        "image": "./assets/img/portfolio/fullsize/robotworkinprogress.png"
+    },
+    {
+        "name": "Projekto pavadinimas",
+        "description": "Aprašymas: 6",
+        "image": "./assets/img/portfolio/fullsize/robotworkinprogress.png"
+    }
+]
